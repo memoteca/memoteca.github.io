@@ -422,9 +422,10 @@ la inversión extranjera en alquiler en la comunidad.
   deuda distressed y activos inmobiliarios de cajas en quiebra a precios de
   saldo. Solo entre 2015 y 2019 compraron más de 148.500 millones de euros en
   carteras inmobiliarias de bancos españoles.
-- **~⅓ bancos españoles** (CaixaBank, BBVA, Sabadell) que heredaron pisos de
-  hipotecas ejecutadas de sus propios clientes. No compraron a descuento:
-  les cayeron encima.
+- **~⅓ bancos españoles** (CaixaBank, BBVA, Sabadell) que acumularon pisos
+  procedentes de hipotecas que concedieron sin evaluar adecuadamente el
+  riesgo de impago, fueron rescatados con fondos públicos, y retuvieron
+  las viviendas ejecutadas en cartera.
 - **~⅓ patrimonialistas locales** históricas (Cevasa desde 1945, Núñez i
   Navarro desde los años 50, familia Sanahuja). Estas empresas construyeron
   o compraron sus carteras a lo largo de décadas.

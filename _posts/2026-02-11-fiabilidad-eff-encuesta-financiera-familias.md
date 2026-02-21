@@ -6,7 +6,7 @@ series: impuestos
 part: 4
 ---
 
-*Este es el cuarto artículo de una serie sobre fiscalidad y desigualdad en España.
+*Este es el cuarto artículo de una [serie](https://statisticspeek.github.io/) sobre fiscalidad y desigualdad en España.
 En el [tercer artículo](/2026/02/11/distribucion-riqueza-espana.html) analizamos la
 distribución de la riqueza usando los microdatos de la EFF. Este artículo examina
 la fiabilidad del instrumento de medida: la propia encuesta. Antes de interpretar

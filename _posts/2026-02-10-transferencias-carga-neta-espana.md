@@ -6,7 +6,7 @@ series: impuestos
 part: 2
 ---
 
-*Este es el segundo artículo de una serie sobre fiscalidad en España.
+*Este es el segundo artículo de una [serie](https://statisticspeek.github.io/) sobre fiscalidad en España.
 En el [primer artículo](/2026/02/09/impuestos-progresivos-espana.html)
 calculamos la carga fiscal bruta del asalariado y encontramos una
 U invertida: la carga total alcanza su máximo en los 56.000 EUR de salario

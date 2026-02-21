@@ -6,7 +6,7 @@ series: impuestos
 part: 5
 ---
 
-*Este es el quinto artículo de una serie sobre fiscalidad y desigualdad en España.
+*Este es el quinto artículo de una [serie](https://statisticspeek.github.io/) sobre fiscalidad y desigualdad en España.
 En los artículos anteriores calculamos la
 [carga fiscal bruta del asalariado](/2026/02/09/impuestos-progresivos-espana.html),
 las [transferencias y carga neta](/2026/02/10/transferencias-carga-neta-espana.html),

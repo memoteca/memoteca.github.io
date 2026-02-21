@@ -155,7 +155,3 @@ declarante/no declarante.
 
 ---
 
-<p style="text-align: center; color: #666; font-size: 0.85em; margin-top: 3em;">
-Todos los estudios son reproducibles a partir de fuentes oficiales públicas
-o de acceso restringido previa solicitud (microdatos EFF del Banco de España).
-</p>

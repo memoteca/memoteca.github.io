@@ -89,38 +89,55 @@ proceso:
 
 *Fuentes: microdatos EFF (8 olas, 2002-2022), BdE, SUERF, BIS.*
 
-### Estudio 5. Vivienda: propiedad, alquiler y concentración *(pendiente)*
+### Estudio 5. [Vivienda en España: propiedad, alquiler y el mito de las viviendas vacías]({{ site.baseurl }}/2026/02/12/vivienda-propiedad-alquiler-espana.html)
 
-¿Cómo se distribuye la propiedad de viviendas por nivel de renta? ¿Existe
-concentración oligopolística en el mercado del alquiler? ¿Qué cuota tienen
-los grandes tenedores y las Socimis? Análisis del esfuerzo de vivienda por
-decil y de las viviendas vacías frente a la demanda de alquiler.
+España tiene un **87,5%** de viviendas en propiedad, pero la tendencia se
+invierte en los jóvenes: solo el 26% de los menores de 35 son propietarios.
+El esfuerzo de alquiler supera el **40% de la renta** en los tres primeros
+deciles. Contrariamente a la narrativa, las viviendas vacías se concentran
+en zonas rurales sin demanda, no en grandes ciudades: Madrid tiene un 7,5%
+de vacías frente al 30% de provincias despobladas. Los 10 mayores
+propietarios corporativos (Socimis) controlan solo el **1,3%** del parque de
+alquiler, descartando un oligopolio formal.
 
-*Fuentes previstas: BdE (EFF), Catastro, AEAT, INE (Censo y ECV), CNMV.*
+*Fuentes: INE (Censo, ECV), Catastro, CNMV, AEAT.*
 
-### Estudio 6. Rentas del capital vs. trabajo *(pendiente)*
+### Estudio 6. [Rentas del trabajo vs rentas del capital en España (2009-2024)]({{ site.baseurl }}/2026/02/21/rentas-trabajo-capital-espana.html)
 
-Comparación del tipo efectivo que soportan las rentas del trabajo frente a
-las del capital (dividendos, ganancias patrimoniales, intereses). Base
-imponible general vs. base del ahorro por tramo de renta en el IRPF.
+Entre 2013 y 2023, las rentas del capital crecieron un **+46% real** frente
+al +31% del trabajo (IRPF, deflactor IPC). En Sociedades, el EBITDA creció
+un +90% real frente al +43% de los gastos de personal. La *labor share*
+(participación de los salarios en el valor añadido) cayó del **67,5% al
+61,1%** (−6,4 pp). El salario medio puro (modelo 190) apenas subió un +6%
+real en diez años, pese a que el SMI creció un +67%. La subida del mínimo
+solo benefició a los salarios más bajos sin arrastrar al resto.
 
-*Fuentes previstas: AEAT (estadística de declarantes del IRPF).*
+*Fuentes: AEAT (modelo 100, modelo 200, modelo 190), INE (IPC, CNTr).*
 
-### Estudio 7. Tributación corporativa en la UE *(pendiente)*
+### Estudio 7. [Tributación corporativa en la UE: la carrera a la baja y la paradoja recaudatoria]({{ site.baseurl }}/2026/02/14/tributacion-corporativa-ue.html)
 
-Tipos nominales vs. efectivos del Impuesto de Sociedades en Irlanda (12,5%),
-Luxemburgo y Países Bajos. Cuánto beneficio generado en España tributa fuera
-del país a través de estructuras multinacionales.
+Pese a que los tipos nominales del Impuesto de Sociedades han caído del 35%
+al 25% en dos décadas, la recaudación como % del PIB se ha mantenido o
+subido (paradoja recaudatoria). Sin embargo, los tipos efectivos para las
+grandes multinacionales son mucho menores. Irlanda, Luxemburgo y Países
+Bajos absorben **€63.000 M** de beneficio excedente anual desplazado desde
+otros países de la UE. España pierde **€4.600 M/año** en recaudación del IS
+por traslado de beneficios a paraísos fiscales europeos, de los cuales
+€2.600 M van a Irlanda.
 
-*Fuentes previstas: EUROSTAT, OCDE (BEPS), Tax Justice Network.*
+*Fuentes: OCDE (CbCR, ETR), EUROSTAT, Tax Justice Network.*
 
-### Estudio 8. Comparativa de carga fiscal europea *(pendiente)*
+### Estudio 8. [Comparativa europea de carga fiscal sobre el trabajo]({{ site.baseurl }}/2026/02/21/comparativa-europea-carga-fiscal.html)
 
-Cuña fiscal por país y nivel salarial. Ingresos fiscales como porcentaje del
-PIB por tipo de impuesto. Países de referencia: Francia, Italia, Alemania,
-Reino Unido y Suecia.
+La cuña fiscal total sobre el salario medio en España es del **40,6%** del
+coste laboral, por encima de la media OCDE (34,9%). Pero la estructura es
+atípica: el IRPF es bajo (16,0%) y las cotizaciones del empleador son las
+más altas de la muestra (30,5%). El asalariado español se lleva a casa el
+**77,5%** de su bruto, por encima de la media OCDE (75,0%). Alemania
+(47,9%) y Francia (47,2%) tienen cuñas mayores; el Reino Unido (29,4%) la
+menor. El modelo español penaliza más la contratación que la renta.
 
-*Fuentes previstas: OCDE (Taxing Wages), EUROSTAT.*
+*Fuentes: OCDE (Taxing Wages 2024), Eurostat (gov_10a_taxag).*
 
 ---
 

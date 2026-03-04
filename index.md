@@ -47,6 +47,51 @@ el "test japonés" como prueba de fuego de la tesis de Chetty.
 
 ---
 
+## Japón
+
+¿Protege la igualdad contra el estancamiento? Japón es el experimento
+natural perfecto: distribución de renta igualitaria pero crecimiento
+cero durante 20 años. Esta serie de tres artículos analiza la
+distribución de renta japonesa, estima la movilidad absoluta
+intergeneracional y compara los resultados con España.
+
+### Estudio 1. [Las tres décadas perdidas en números: distribución de renta en Japón, 1999–2019]({{ site.baseurl }}/2026/03/05/distribucion-renta-japon.html)
+
+¿Cómo cambió la distribución de renta japonesa durante las "décadas
+perdidas"? A partir de la NSFIE (National Survey of Family Income and
+Expenditure), documentamos 20 años de estancamiento: la mediana de renta
+del grupo 30-39 fue de **621 万円** en 1999 y **619 万円** en 2019. El
+perfil age-earnings tiene un pico tardío (50-59) y la desigualdad se
+mantuvo estable (ratio P75/P25 ~1.9). Japón no se hizo más desigual —
+simplemente dejó de crecer.
+
+*Fuentes: Statistics Bureau of Japan (NSFIE 1999–2019, vía e-Stat), CPI japonés.*
+
+### Estudio 2. [El test japonés: ¿protege la igualdad contra el estancamiento?]({{ site.baseurl }}/2026/03/05/test-japones-movilidad.html)
+
+Si la tesis de Chetty es correcta (la distribución importa más que el
+crecimiento), Japón debería tener movilidad alta (~65-75%) pese al
+estancamiento. El resultado: movilidad del **~49%** — un coin flip.
+La buena distribución no bastó para compensar 20 años sin crecimiento
+real. La movilidad es además casi insensible al ρ de la cópula,
+confirmando que las distribuciones de padres e hijos son prácticamente
+idénticas.
+
+*Fuentes: Statistics Bureau of Japan (NSFIE 1999–2019), copula Gaussiana (Chetty 2017).*
+
+### Estudio 3. [Dos caminos al mismo resultado: Japón vs España en movilidad absoluta]({{ site.baseurl }}/2026/03/05/japon-vs-espana-movilidad.html)
+
+España (~44%) y Japón (~49%) tienen movilidades similares pero por
+razones opuestas: España tiene crecimiento real pero mala distribución
+(precariedad juvenil); Japón tiene buena distribución pero crecimiento
+cero. La descomposición de Chetty se confirma en sentido bidireccional:
+**cualquiera** de los dos canales (crecimiento o distribución) puede
+matar la movilidad. Para superar el 50%, hacen falta ambos ingredientes.
+
+*Fuentes: NSFIE (Japón), ECV + ECPF (España), copula Gaussiana.*
+
+---
+
 ## Impuestos
 
 Serie de estudios que analiza el sistema fiscal español desde tres ángulos

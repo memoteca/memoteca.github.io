@@ -32,6 +32,19 @@ principal de la caída.
 *Fuentes: INE (ECV 2006–2025, EPF 1980–81 y 1990–91, ECPF Base 85 y Base
 97, IPC enlazado).*
 
+### Estudio 2. [¿A qué edad medir la movilidad? Determinación de la edad óptima de medición]({{ site.baseurl }}/2026/03/04/edad-optima-movilidad.html)
+
+¿Cuál es la edad "correcta" para medir la renta? La renta a los 30 en
+España subestima la renta permanente por la precariedad juvenil. Un
+algoritmo de estabilización (first differences < 2 pp) determina que la
+edad óptima de medición es **38 años**. A esa edad, la movilidad oscila
+entre **36,7% y 49,4%** (media 44,0%) — consistentemente bajo el umbral
+del 50%. El artículo enmarca además el análisis en un proyecto multicountry
+que extiende Chetty/Manduca a Italia, Grecia, EEUU, UK y Japón, y propone
+el "test japonés" como prueba de fuego de la tesis de Chetty.
+
+*Fuentes: INE (ECV 2006–2025, ECPF Base 85 y Base 97, IPC enlazado).*
+
 ---
 
 ## Impuestos

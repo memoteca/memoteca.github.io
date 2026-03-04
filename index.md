@@ -4,13 +4,37 @@ layout: default
 
 # Statistics Peek
 
-Análisis cuantitativos sobre fiscalidad, desigualdad y riqueza en España,
-basados en la explotación directa de microdatos oficiales (INE, AEAT, Banco
-de España, FEDEA, BCE).
+Análisis cuantitativos sobre fiscalidad, desigualdad, movilidad social y
+riqueza en España, basados en la explotación directa de microdatos oficiales
+(INE, AEAT, Banco de España, FEDEA, BCE).
 
 ---
 
-## Fiscalidad y desigualdad en España
+## Movilidad intergeneracional
+
+¿Ganan los hijos más que sus padres a la misma edad? Esta serie replica
+estudios internacionales de movilidad de renta con datos españoles,
+combinando la ECV del INE con encuestas de presupuestos familiares
+históricas (EPF/ECPF).
+
+### Estudio 1. [¿Se desvanece el sueño español? Movilidad absoluta de renta, 1973–1996]({{ site.baseurl }}/2026/03/04/movilidad-absoluta-espana.html)
+
+Replicación de Chetty et al. (2017) —"The Fading American Dream"— para
+España. La movilidad per-earner a los ~30 años cae del **75%** (cohorte
+1975) al **32%** (cohorte 1984) — 43 pp en 9 cohortes. Sin embargo, a los
+~40 años el rango se comprime a **9 pp** (39%–48%), y con renta del hogar
+la movilidad es del **72%–79%** para todas las cohortes — comparable a
+Países Bajos o Noruega. La divergencia cuantifica la precariedad del
+mercado laboral juvenil español. A diferencia de EEUU (donde la desigualdad
+domina), en España el menor crecimiento de la renta media es el motor
+principal de la caída.
+
+*Fuentes: INE (ECV 2006–2025, EPF 1980–81 y 1990–91, ECPF Base 85 y Base
+97, IPC enlazado).*
+
+---
+
+## Impuestos
 
 Serie de estudios que analiza el sistema fiscal español desde tres ángulos
 complementarios: cuánto paga el ciudadano (carga bruta), cuánto recibe del

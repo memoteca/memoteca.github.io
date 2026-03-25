@@ -11,17 +11,20 @@ oficiales y fuentes abiertas.
 
 ## Plantas solares
 
-Documentación y mapas sobre los proyectos de plantas solares
-fotovoltaicas en el Corredor del Henares (Madrid).
+Proyectos de macroplantas solares fotovoltaicas en el este de Madrid:
+zona de Pozuelo del Rey, Torres de la Alameda, Valdilecha, Villalbilla,
+Valverde de Alcalá, Nuevo Baztán y municipios limítrofes.
 
-### [Plantas solares en el Corredor del Henares: mapa interactivo]({{ site.baseurl }}/2026/03/09/plantas-solares-corredor-henares.html)
+### [Plantas solares en el este de Madrid: qué se sabe]({{ site.baseurl }}/2026/03/25/plantas-solares-corredor-henares.html)
 
-Mapa interactivo con las parcelas de **Envatios XXIV** (Smartenergy,
-~236 MW en tres fases) y **PFot 172/195** (IGNIS / TotalEnergies,
-~525 MW) superpuestas sobre la cartografía catastral. Afectan a
-Valdilecha, Torres de la Alameda y Mejorada del Campo.
+Recopilación completa de los proyectos que afectan a la zona: **Envatios
+XXIV** (Smartenergy, ~236 MW), **complejo IGNIS/TotalEnergies** (~439
+MWp) y **Galatea I** (60,9 MW). Estado administrativo, proceso de
+expropiación, arrendamientos típicos (~1.500 €/ha/año), oposición
+vecinal, regulación de la Comunidad de Madrid y mapa interactivo con
+las parcelas catastrales afectadas.
 
-*Fuentes: BOE, Catastro INSPIRE WFS, shapefiles de tramitación ambiental.*
+*Fuentes: BOE, Catastro INSPIRE WFS, prensa local, Ecologistas en Acción.*
 
 ---
 

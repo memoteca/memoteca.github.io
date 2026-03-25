@@ -6,7 +6,7 @@ series: impuestos
 part: 3
 ---
 
-*Este es el tercer artículo de una [serie](https://statisticspeek.github.io/) sobre fiscalidad y desigualdad en España.
+*Este es el tercer artículo de una [serie](https://memoteca.github.io/) sobre fiscalidad y desigualdad en España.
 En el [primer artículo](/2026/02/09/impuestos-progresivos-espana.html) calculamos
 la carga fiscal bruta del asalariado y encontramos una U invertida. En el
 [segundo artículo](/2026/02/10/transferencias-carga-neta-espana.html) añadimos las

@@ -17,8 +17,8 @@ bundle exec jekyll build
 No build step is required for deployment - pushing to main branch triggers automatic GitHub Pages builds.
 
 ## Pages
-- https://github.com/statisticspeek/statisticspeek.github.io/actions
-- https://statisticspeek.github.io/ 
+- https://github.com/memoteca/memoteca.github.io/actions
+- https://memoteca.github.io/ 
 
 ## Architecture
 - **Static Site Generator**: Jekyll with GitHub Pages hosting

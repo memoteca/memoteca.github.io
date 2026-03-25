@@ -6,7 +6,7 @@ series: impuestos
 part: 1
 ---
 
-*Este es el primer artículo de una [serie](https://statisticspeek.github.io/) sobre fiscalidad en España.
+*Este es el primer artículo de una [serie](https://memoteca.github.io/) sobre fiscalidad en España.
 El [segundo artículo](/2026/02/10/transferencias-carga-neta-espana.html)
 completa este análisis añadiendo las transferencias del Estado (pensiones,
 sanidad, educación, prestaciones sociales) y calcula la carga fiscal neta.*

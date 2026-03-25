@@ -660,7 +660,7 @@ impacto es limitado.
 
 - Estudio 1 de esta serie: "Carga fiscal total del asalariado en España:
   un análisis de progresividad."
-  [statisticspeek.github.io](/2026/02/09/impuestos-progresivos-espana.html)
+  [memoteca.github.io](/2026/02/09/impuestos-progresivos-espana.html)
 
 - INE, Encuesta de Condiciones de Vida (ECV), 2022.
   [ine.es](https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176807&menu=ultiDatos&idp=1254735976608)

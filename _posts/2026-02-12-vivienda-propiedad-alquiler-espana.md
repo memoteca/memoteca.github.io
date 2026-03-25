@@ -6,7 +6,7 @@ series: impuestos
 part: 4
 ---
 
-*Este es el cuarto artículo de una [serie](https://statisticspeek.github.io/) sobre fiscalidad y desigualdad en España.
+*Este es el cuarto artículo de una [serie](https://memoteca.github.io/) sobre fiscalidad y desigualdad en España.
 En los estudios anteriores medimos la
 [carga fiscal bruta](/2026/02/09/impuestos-progresivos-espana.html), las
 [transferencias y carga neta](/2026/02/10/transferencias-carga-neta-espana.html) y la

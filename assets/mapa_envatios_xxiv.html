@@ -7940,6 +7940,28 @@
                 [[40.268261, -3.48244], [40.44655, -3.2394331961213387]],
                 {}
             );
-        
+
+            // Navigation buttons
+            var navDiv = document.createElement('div');
+            navDiv.style.cssText = 'position:fixed;top:60px;right:10px;z-index:1000;display:flex;flex-direction:column;gap:4px;';
+            var views = [
+                {label: 'Pozuelo / Nuevo Baztán', lat: 40.355, lon: -3.32, zoom: 13},
+                {label: 'Torres de la Alameda', lat: 40.43, lon: -3.39, zoom: 13},
+                {label: 'Valdilecha', lat: 40.28, lon: -3.32, zoom: 13},
+                {label: 'Ver todo', lat: 40.36, lon: -3.40, zoom: 11}
+            ];
+            views.forEach(function(v) {
+                var btn = document.createElement('button');
+                btn.textContent = v.label;
+                btn.style.cssText = 'padding:6px 12px;background:white;border:2px solid grey;border-radius:5px;cursor:pointer;font-size:12px;font-family:Arial;white-space:nowrap;';
+                btn.onmouseover = function() { btn.style.background = '#f0f0f0'; };
+                btn.onmouseout = function() { btn.style.background = 'white'; };
+                btn.onclick = function() {
+                    map_815a7b418ab5e461c883a8d9638e6be6.setView([v.lat, v.lon], v.zoom);
+                };
+                navDiv.appendChild(btn);
+            });
+            document.body.appendChild(navDiv);
+
 </script>
 </html>

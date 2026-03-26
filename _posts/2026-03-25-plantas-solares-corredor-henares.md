@@ -9,7 +9,10 @@ fotovoltaicas en el este de Madrid, en la cuña de terreno comprendida
 entre la **A-2 (carretera de Zaragoza)** al norte y la **A-3 (carretera
 de Valencia)** al sur: Torres de la Alameda, Pozuelo del Rey, Valdilecha,
 Villalbilla, Valverde de Alcalá, Nuevo Baztán, Villar del Olmo y
-municipios limítrofes. Última actualización: marzo de 2026.
+municipios limítrofes. Las líneas de evacuación eléctrica se extienden
+más allá de esta zona hacia el norte (Paracuellos, Ajalvir, Alcobendas),
+y algún proyecto (Galatea I) alcanza municipios sobre la A-3 (Arganda
+del Rey, Morata de Tajuña). Última actualización: marzo de 2026.
 
 ---
 

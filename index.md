@@ -14,17 +14,23 @@ oficiales y fuentes abiertas.
 Seguimiento de proyectos de macroplantas solares fotovoltaicas que
 afectan a zonas cercanas.
 
-### Madrid — este y Corredor del Henares
+### Madrid — cuña A-2 / A-3 (este y sureste)
 
-#### [Plantas solares en el este de Madrid: qué se sabe]({{ site.baseurl }}/2026/03/25/plantas-solares-corredor-henares.html)
+#### [Documentacion completa: cuña A-2 / A-3]({{ site.baseurl }}/plantas-solares-madrid.html)
 
-Zona de Pozuelo del Rey, Torres de la Alameda, Valdilecha, Nuevo Baztán
-y municipios limítrofes. **Envatios XXIV** (Smartenergy, ~236 MW),
+**34 municipios**, **~2.600-2.800 MW** en mas de 30 proyectos.
+Inventario completo, mapa interactivo con limites de la zona,
+superficies afectadas por municipio y referencias BOE.
+
+#### [Plantas solares en el este de Madrid: que se sabe]({{ site.baseurl }}/2026/03/25/plantas-solares-corredor-henares.html)
+
+Zona de Pozuelo del Rey, Torres de la Alameda, Valdilecha, Nuevo Baztan
+y municipios limitrofes. **Envatios XXIV** (Smartenergy, ~236 MW),
 **complejo IGNIS/TotalEnergies** (~439 MWp) y **Galatea I** (60,9 MW).
-Proceso de expropiación (ya en marcha), arrendamientos (~1.500 €/ha/año),
-oposición vecinal y mapa interactivo con parcelas catastrales.
+Proceso de expropiacion (ya en marcha), arrendamientos (~1.500 EUR/ha/ano),
+oposicion vecinal y mapa interactivo con parcelas catastrales.
 
-*Fuentes: BOE, Catastro INSPIRE WFS, prensa local, Ecologistas en Acción.*
+*Fuentes: BOE, Catastro INSPIRE WFS, prensa local, Ecologistas en Accion.*
 
 ### Alicante — Maigmó, Ibi, Castalla y ciudad
 

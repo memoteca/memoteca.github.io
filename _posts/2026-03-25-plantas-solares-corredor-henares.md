@@ -5,18 +5,19 @@ date: 2026-03-25
 ---
 
 Recopilación de lo que se sabe sobre los proyectos de macroplantas solares
-fotovoltaicas en el este de Madrid, en la zona comprendida entre el
-Corredor del Henares y la Alcarria madrileña: Torres de la Alameda,
-Pozuelo del Rey, Valdilecha, Villalbilla, Valverde de Alcalá, Nuevo
-Baztán, Villar del Olmo y municipios limítrofes. Última actualización:
-marzo de 2026.
+fotovoltaicas en el este de Madrid, en la cuña de terreno comprendida
+entre la **A-2 (carretera de Zaragoza)** al norte y la **A-3 (carretera
+de Valencia)** al sur: Torres de la Alameda, Pozuelo del Rey, Valdilecha,
+Villalbilla, Valverde de Alcalá, Nuevo Baztán, Villar del Olmo y
+municipios limítrofes. Última actualización: marzo de 2026.
 
 ---
 
 ## Contexto general
 
-La zona entre el Henares y el Tajuña (Alcarria madrileña) concentra una
-avalancha de proyectos fotovoltaicos. En toda la Comunidad de Madrid hay
+La cuña entre la A-2 y la A-3 — la Alcarria madrileña, entre los valles
+del Henares y el Tajuña — concentra una avalancha de proyectos
+fotovoltaicos. En toda la Comunidad de Madrid hay
 **53 macroplantas aprobadas** que suman **10.490 hectáreas**. Dos grandes
 complejos afectan directamente al entorno de Pozuelo del Rey y Eurovillas:
 

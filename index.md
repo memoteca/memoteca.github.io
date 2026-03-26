@@ -11,20 +11,32 @@ oficiales y fuentes abiertas.
 
 ## Plantas solares
 
-Proyectos de macroplantas solares fotovoltaicas en el este de Madrid:
-zona de Pozuelo del Rey, Torres de la Alameda, Valdilecha, Villalbilla,
-Valverde de Alcalá, Nuevo Baztán y municipios limítrofes.
+Seguimiento de proyectos de macroplantas solares fotovoltaicas que
+afectan a zonas cercanas.
 
-### [Plantas solares en el este de Madrid: qué se sabe]({{ site.baseurl }}/2026/03/25/plantas-solares-corredor-henares.html)
+### Madrid — este y Corredor del Henares
 
-Recopilación completa de los proyectos que afectan a la zona: **Envatios
-XXIV** (Smartenergy, ~236 MW), **complejo IGNIS/TotalEnergies** (~439
-MWp) y **Galatea I** (60,9 MW). Estado administrativo, proceso de
-expropiación, arrendamientos típicos (~1.500 €/ha/año), oposición
-vecinal, regulación de la Comunidad de Madrid y mapa interactivo con
-las parcelas catastrales afectadas.
+#### [Plantas solares en el este de Madrid: qué se sabe]({{ site.baseurl }}/2026/03/25/plantas-solares-corredor-henares.html)
+
+Zona de Pozuelo del Rey, Torres de la Alameda, Valdilecha, Nuevo Baztán
+y municipios limítrofes. **Envatios XXIV** (Smartenergy, ~236 MW),
+**complejo IGNIS/TotalEnergies** (~439 MWp) y **Galatea I** (60,9 MW).
+Proceso de expropiación (ya en marcha), arrendamientos (~1.500 €/ha/año),
+oposición vecinal y mapa interactivo con parcelas catastrales.
 
 *Fuentes: BOE, Catastro INSPIRE WFS, prensa local, Ecologistas en Acción.*
+
+### Alicante — Maigmó, Ibi, Castalla y ciudad
+
+#### [Plantas solares en Alicante: Maigmó, Ibi, Castalla y ciudad]({{ site.baseurl }}/2026/03/25/plantas-solares-alicante-maigmo.html)
+
+Corredor del Maigmó: **Kenerjona I y II** (81,6 MW fraccionados,
+Ibi/Castalla/Tibi), **megaplanta Castalla** (100 MW, Cobra/Vinci) y
+**El Horizonte** (52 MW, Agost). En Alicante ciudad: **La Alcoraya I y
+II** (16,8 MW, recurridas por el Ayuntamiento). ~251 MW en total, fuerte
+oposición municipal con suspensión de licencias en varios municipios.
+
+*Fuentes: BOE, Ayuntamiento de Tibi, prensa alicantina, Ecologistas en Acción.*
 
 ---
 

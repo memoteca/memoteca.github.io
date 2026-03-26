@@ -22,7 +22,7 @@ afectan a zonas cercanas.
 Inventario completo, mapa interactivo con limites de la zona,
 superficies afectadas por municipio y referencias BOE.
 
-#### [Plantas solares en el este de Madrid: que se sabe]({{ site.baseurl }}/2026/03/25/plantas-solares-corredor-henares.html)
+#### [Plantas solares en el este de Madrid: qué se sabe]({{ site.baseurl }}/2026/03/25/plantas-solares-corredor-henares.html)
 
 Zona de Pozuelo del Rey, Torres de la Alameda, Valdilecha, Nuevo Baztan
 y municipios limitrofes. **Envatios XXIV** (Smartenergy, ~236 MW),

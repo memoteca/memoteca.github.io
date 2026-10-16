@@ -23,7 +23,9 @@ Sus dimensiones:
 
 - **~60 km** de norte a sur (del Estrecho de Coria a Sanlúcar)
 - **~30–50 km** de ancho en su parte más amplia
-- **~2.000 km²** de extensión (comparable a la actual superficie de las marismas)
+- Sin cifra publicada de superficie para la época romana. El estuario actual del
+  Guadalquivir, cerrado por flechas de arena, ocupa unos **1.800 km²**
+  (Rodríguez-Vidal et al. 2011); el Mar Menor, unos 135 km²
 
 Estaba delimitado por dos escarpes naturales: el **Aljarafe** al oeste
 (la meseta donde hoy están Camas, Castilleja, Olivares) y **Los
@@ -154,6 +156,10 @@ fue durante siglos: un puerto con vistas al lago.
   márgenes del antiguo estuario del Guadalquivir*
 - Arteaga, O. et al. *Guadalquivir Marshes Project* (reconstrucción
   paleogeográfica con sondeos)
+- Rodríguez-Vidal, J. et al. (2011). "Geomarkers of the 218–209 BC Atlantic
+  tsunami in the Roman Lacus Ligustinus (SW Spain): A palaeogeographical
+  approach". *Quaternary International* 242:201–212.
+  [doi:10.1016/j.quaint.2011.01.032](https://doi.org/10.1016/j.quaint.2011.01.032)
 - Rodríguez Ramírez, A. et al. "Changes in sedimentation trends in SW
   Iberia Holocene estuaries". Universidad de Huelva
 - Lario, J. et al. "The role of neo-tectonics in the sedimentary

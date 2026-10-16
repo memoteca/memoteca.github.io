@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: reclus
 title: "Los pueblos de Siberia en Reclus, 1881"
 ---
 

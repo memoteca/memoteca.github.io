@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: reclus
 title: "El Amur, el Ussuri y Sajalín en Reclus, 1881"
 ---
 

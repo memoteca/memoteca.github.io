@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: reclus
 title: "Concordancia toponímica del capítulo I"
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: reclus
 title: "Élisée Reclus, Nouvelle géographie universelle — la Rumanía de hoy fuera del principado"
 ---
 

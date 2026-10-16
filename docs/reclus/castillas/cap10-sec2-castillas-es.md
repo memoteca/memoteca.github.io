@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: reclus
 title: "Capítulo X, sección II — Mesetas de las Castillas, de León y de Extremadura"
 ---
 

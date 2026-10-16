@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: reclus
 title: "Stanovói, cuenca del Amur, Manchuria rusa — Sajalín"
 ---
 

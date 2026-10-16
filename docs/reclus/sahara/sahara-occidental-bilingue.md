@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: reclus
 title: "El Sáhara occidental en Reclus, 1886"
 ---
 

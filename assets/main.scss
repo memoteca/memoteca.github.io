@@ -63,3 +63,21 @@ caption {
   margin-bottom: 0.3em;
   text-align: left;
 }
+
+/* Reclus bilingual editions: one paragraph per cell, so cells must wrap.
+   Scoped to the reclus layout; statistics tables keep nowrap. */
+.reclus table {
+  width: 100%;
+  table-layout: fixed;
+  font-size: 1em;
+}
+.reclus th, .reclus td {
+  white-space: normal;
+  vertical-align: top;
+  padding: 0.4em 0.7em;
+  overflow-wrap: anywhere;
+}
+.reclus table img {
+  max-width: 100%;
+  height: auto;
+}

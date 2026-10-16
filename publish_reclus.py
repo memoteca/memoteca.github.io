@@ -59,7 +59,7 @@ def publish(slug: str) -> int:
             has_figures = f"]({prefix}" in text
             text = text.replace(f"]({prefix}", "]({{ site.baseurl }}/assets/images/reclus/" + slug + "/")
         text = MD_LINK.sub(lambda m: f"]({m.group(1)}.html{m.group(2) or ''})", text)
-        front = f'---\nlayout: default\ntitle: "{title_of(text)}"\n---\n\n'
+        front = f'---\nlayout: reclus\ntitle: "{title_of(text)}"\n---\n\n'
         if has_figures:
             text = text.rstrip("\n") + CREDIT
         (out / src.name).write_text(front + text, encoding="utf-8")

@@ -1,10 +1,11 @@
-# CLAUDE.md — statisticspeek / Memoteca
+# CLAUDE.md — Memoteca
 
-## Nombre vs. carpeta (LEER PRIMERO)
+## Qué es
 
-Esta carpeta se llama **`statisticspeek`** (nombre viejo) pero el sitio que sirve es
-**Memoteca** — https://memoteca.github.io/. El desajuste de nombre despista: Jorge no
-recordaba dónde estaba Memoteca porque buscaba una carpeta llamada `memoteca`.
+Esta carpeta es el sitio **Memoteca** — https://memoteca.github.io/. Hasta el
+2026-10-16 se llamaba `statisticspeek` (nombre viejo del proyecto); en `~/claude` queda
+un enlace simbólico `statisticspeek -> memoteca` para que las referencias antiguas
+(p. ej. las de `../impuestos`) sigan resolviendo.
 
 - Sitio: **Jekyll** (tema Minima) + **GitHub Pages**. Deploy automático al hacer push a `main`.
 - Repo: `github.com/memoteca/memoteca.github.io.git`
@@ -21,7 +22,7 @@ Son **sitios distintos**, no toques uno pensando en el otro:
 
 | | Memoteca (aquí) | Apuntes |
 |---|---|---|
-| Carpeta | `/Users/jorge/claude/statisticspeek/` | `/Users/jorge/claude/FionaHill/` |
+| Carpeta | `/Users/jorge/claude/memoteca/` | `/Users/jorge/claude/FionaHill/` |
 | Generador | Jekyll | mkdocs |
 | Hosting | GitHub Pages (`memoteca.github.io`) | Cloudflare Pages (`apuntes-jorge.pages.dev`) |
 | Repo | `memoteca/memoteca.github.io` | `jorgemelis/books` |
@@ -58,8 +59,6 @@ la raíz junto al contenido; no se puede esconder en subcarpetas sin migrar a
 GitHub Actions. Por eso la separación real es por repos (taller vs. escaparate),
 no por carpetas dentro de este repo.
 
-Pendiente (sin decidir): renombrar la carpeta local `statisticspeek` → `memoteca`
-para que coincida con el sitio y quede de hermana de `solares`, `estadistica`.
 
 ---
 

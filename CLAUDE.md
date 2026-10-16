@@ -49,7 +49,8 @@ Este repo (escaparate) debe contener **solo lo publicable**. Lo que hay:
 | ✍️ Contenido (edita) | 🔧 Maquinaria Jekyll (no tocar) |
 |---|---|
 | `_posts/` — artículos | `_config.yml`, `Gemfile`, `Gemfile.lock` |
-| `index.md` — portada | `assets/main.scss` — estilos |
+| `landing.md` + `landing/` — portada (ver abajo) | `assets/main.scss` — estilos |
+| `index.md` — portada **generada**, no editar a mano | `build_landing.py` — ensambla `index.md` |
 | `plantas-solares-madrid.md` | `_site/`, `.jekyll-cache/` — se regeneran |
 | `docs/<tema>/` — docs de consulta | `.gitignore` |
 | `assets/images/<tema>/`, `assets/*.html` | |
@@ -61,6 +62,26 @@ no por carpetas dentro de este repo.
 
 
 ---
+
+## Portada (`index.md`) — se genera, no se edita
+
+Mismo mecanismo que en `apuntes-jorge`: `landing.md` es una lista de tareas con
+un bloque por línea, en el orden de la portada; `[x]` lo publica, `[ ]` lo deja
+fuera, y mover líneas reordena. El texto de cada bloque vive en
+`landing/<slug>.md` (`landing/_header.md` es el front matter y la intro fijos).
+Hay tres niveles, solo visuales: temas (`##`), series (`###`) y entradas (`####`).
+
+GitHub Pages no ejecuta Python, así que `index.md` va **versionado**: tras tocar
+`landing.md` o `landing/`, regenerar y subir las dos cosas:
+
+```bash
+python3 build_landing.py && git add landing.md landing index.md && git commit && git push
+```
+
+Para un post nuevo: crear `landing/<slug>.md` con el `####` enlazado (usa
+`{{ site.baseurl }}/AAAA/MM/DD/nombre.html`) y añadir su línea a `landing.md`
+bajo la serie que corresponda. `landing.md`, `landing/` y `build_landing.py`
+están en `exclude:` de `_config.yml` para que Jekyll no los sirva como páginas.
 
 ## Desarrollo (Jekyll)
 

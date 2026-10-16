@@ -6,3 +6,10 @@ theme: minima
 markdown: kramdown
 kramdown:
   input: GFM
+
+# Landing sources: landing.md + landing/ are assembled into index.md by
+# build_landing.py and must not be rendered as pages.
+exclude:
+  - landing.md
+  - landing/
+  - build_landing.py

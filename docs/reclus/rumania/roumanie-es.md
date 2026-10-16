@@ -1,11 +1,11 @@
 ---
 layout: reclus
-title: "Élisée Reclus, Nouvelle géographie universelle, tomo I — capítulo VI: Rumanía"
+title: "Élisée Reclus, Nouvelle géographie universelle, tomo I — capítulo VI: Rumanía, 1876"
 ---
 
 <!-- Generado por separar.py desde roumanie-bilingue.md. No editar a mano: editar el bilingüe y volver a ejecutar. -->
 
-# Élisée Reclus, *Nouvelle géographie universelle*, tomo I — capítulo VI: Rumanía
+# Élisée Reclus, *Nouvelle géographie universelle*, tomo I — capítulo VI: Rumanía, 1876
 
 > *L'Europe méridionale (Grèce, Turquie, Roumanie, Serbie, Italie, Espagne et Portugal)*, París, Hachette, 1876, capítulo VI, páginas 245-276.
 

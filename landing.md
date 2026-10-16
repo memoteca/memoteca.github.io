@@ -21,21 +21,21 @@ Tras editar, regenerar la portada y subir ambos ficheros:
   - [x] alicante — Alicante — Maigmó, Ibi, Castalla y ciudad
     - [x] alicante_maigmo — Plantas solares en Alicante: Maigmó, Ibi, Castalla y ciudad
 - [ ] estadistica — Estadística
-  - [x] movilidad — Movilidad intergeneracional
-    - [x] movilidad_absoluta — ¿Se desvanece el sueño español? Movilidad absoluta de renta, 1973–1996
-    - [x] edad_optima — ¿A qué edad medir la movilidad? Determinación de la edad óptima de medición
-  - [x] japon — Japón
-    - [x] japon_renta — Las tres décadas perdidas en números: distribución de renta en Japón, 1999–2019
-    - [x] japon_test — El test japonés: ¿protege la igualdad contra el estancamiento?
-    - [x] japon_vs_espana — Dos caminos al mismo resultado: Japón vs España en movilidad absoluta
-  - [x] impuestos — Impuestos
-    - [x] impuestos_progresivos — Carga fiscal total del asalariado: un análisis de progresividad
-    - [x] transferencias — Transferencias del Estado y carga fiscal neta
-    - [x] riqueza — Distribución de la riqueza en España: quién posee qué y cómo tributa
-    - [x] eff — La Encuesta Financiera de las Familias: qué mide, qué no, y cómo de bien
-    - [x] vivienda_propiedad — Vivienda en España: propiedad, alquiler y el mito de las viviendas vacías
-    - [x] rentas — Rentas del trabajo vs rentas del capital en España (2009–2024)
-    - [x] corporativa — Tributación corporativa en la UE: la carrera a la baja y la paradoja recaudatoria
-    - [x] comparativa_europea — Comparativa europea de carga fiscal sobre el trabajo
-  - [x] otros — Otros análisis
-    - [x] vivienda_ecv — La vivienda en la ECV del INE
+  - [ ] movilidad — Movilidad intergeneracional
+    - [ ] movilidad_absoluta — ¿Se desvanece el sueño español? Movilidad absoluta de renta, 1973–1996
+    - [ ] edad_optima — ¿A qué edad medir la movilidad? Determinación de la edad óptima de medición
+  - [ ] japon — Japón
+    - [ ] japon_renta — Las tres décadas perdidas en números: distribución de renta en Japón, 1999–2019
+    - [ ] japon_test — El test japonés: ¿protege la igualdad contra el estancamiento?
+    - [ ] japon_vs_espana — Dos caminos al mismo resultado: Japón vs España en movilidad absoluta
+  - [ ] impuestos — Impuestos
+    - [ ] impuestos_progresivos — Carga fiscal total del asalariado: un análisis de progresividad
+    - [ ] transferencias — Transferencias del Estado y carga fiscal neta
+    - [ ] riqueza — Distribución de la riqueza en España: quién posee qué y cómo tributa
+    - [ ] eff — La Encuesta Financiera de las Familias: qué mide, qué no, y cómo de bien
+    - [ ] vivienda_propiedad — Vivienda en España: propiedad, alquiler y el mito de las viviendas vacías
+    - [ ] rentas — Rentas del trabajo vs rentas del capital en España (2009–2024)
+    - [ ] corporativa — Tributación corporativa en la UE: la carrera a la baja y la paradoja recaudatoria
+    - [ ] comparativa_europea — Comparativa europea de carga fiscal sobre el trabajo
+  - [ ] otros — Otros análisis
+    - [ ] vivienda_ecv — La vivienda en la ECV del INE

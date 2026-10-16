@@ -44,14 +44,6 @@ oposición municipal con suspensión de licencias en varios municipios.
 
 *Fuentes: BOE, Ayuntamiento de Tibi, prensa alicantina, Ecologistas en Acción.*
 
----
-
-## Estadística
-
-Análisis cuantitativos sobre fiscalidad, desigualdad, movilidad social y
-riqueza en España, basados en la explotación directa de microdatos oficiales
-(INE, AEAT, Banco de España, FEDEA, BCE).
-
 ### Movilidad intergeneracional
 
 ¿Ganan los hijos más que sus padres a la misma edad? Esta serie replica
@@ -178,5 +170,18 @@ Desglose de la Encuesta de Condiciones de Vida 2024: el alquiler crece un
 10% en número de hogares (hasta 4 millones, el 20,4% del total).
 
 *Fuentes: INE (Encuesta de Condiciones de Vida 2024).*
+
+## Reclus
+
+Textos de Élisée Reclus, *Nouvelle géographie universelle* (Hachette, 1876–1894),
+a partir de los facsímiles de Gallica: OCR corregido sobre la imagen, traducción
+al español y ediciones bilingües a dos columnas, con los mapas y láminas.
+
+#### [Élisée Reclus, *Nouvelle géographie universelle*]({{ site.baseurl }}/docs/reclus/index.html)
+
+Asia (consideraciones generales del tomo VI), los pueblos de Siberia, el Amur, el
+Ussuri y Sajalín, Rumanía y la Rumanía de hoy fuera del principado, Tierra del
+Fuego, el Sáhara occidental, las Castillas; y Siberia en la *Novísima geografía
+universal* de Onésime Reclus (1906), en la traducción de Blasco Ibáñez.
 
 ---

@@ -11,13 +11,16 @@ Tras editar, regenerar la portada y subir ambos ficheros:
 
     python3 build_landing.py && git add landing.md index.md && git commit && git push
 
+- [x] Reclus
+- [x] lacus_ligustinus — El Lacus Ligustinus (no estaba en la portada)
+- [x] equal_earth — La ONU adopta Equal Earth (no estaba en la portada)
 - [x] plantas_solares — Plantas solares
   - [x] madrid — Madrid — cuña A-2 / A-3 (este y sureste)
     - [x] madrid_docs — Documentacion completa: cuña A-2 / A-3
     - [x] madrid_henares — Plantas solares en el este de Madrid: qué se sabe
   - [x] alicante — Alicante — Maigmó, Ibi, Castalla y ciudad
     - [x] alicante_maigmo — Plantas solares en Alicante: Maigmó, Ibi, Castalla y ciudad
-- [x] estadistica — Estadística
+- [ ] estadistica — Estadística
   - [x] movilidad — Movilidad intergeneracional
     - [x] movilidad_absoluta — ¿Se desvanece el sueño español? Movilidad absoluta de renta, 1973–1996
     - [x] edad_optima — ¿A qué edad medir la movilidad? Determinación de la edad óptima de medición
@@ -36,5 +39,3 @@ Tras editar, regenerar la portada y subir ambos ficheros:
     - [x] comparativa_europea — Comparativa europea de carga fiscal sobre el trabajo
   - [x] otros — Otros análisis
     - [x] vivienda_ecv — La vivienda en la ECV del INE
-    - [ ] lacus_ligustinus — El Lacus Ligustinus (no estaba en la portada)
-    - [ ] equal_earth — La ONU adopta Equal Earth (no estaba en la portada)

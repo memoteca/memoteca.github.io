@@ -13,3 +13,4 @@ exclude:
   - landing.md
   - landing/
   - build_landing.py
+  - publish_reclus.py

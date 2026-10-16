@@ -14,3 +14,16 @@ exclude:
   - landing/
   - build_landing.py
   - publish_reclus.py
+
+# Pages shown in the header menu (Minima lists every titled page otherwise)
+header_pages:
+  - docs/solares/01_inventario_proyectos_solares.md
+  - docs/solares/02_marco_legal_expropiaciones.md
+  - docs/solares/03_impacto_por_municipio.md
+  - docs/solares/05_referencias_boe.md
+  - docs/solares/06_municipios_zona_a2_a3.md
+  - docs/solares/07_fuentes_oficiales.md
+  - docs/solares/index.md
+  - plantas-solares-madrid.md
+  - CLAUDE.md
+  - docs/reclus/index.md

@@ -15,6 +15,13 @@ Textos de Élisée Reclus, *Nouvelle géographie universelle* (Hachette, 1876–
 a partir de los facsímiles de Gallica: OCR corregido sobre la imagen, traducción
 al español y ediciones bilingües a dos columnas, con los mapas y láminas.
 
+#### [Élisée Reclus, *Nouvelle géographie universelle*]({{ site.baseurl }}/docs/reclus/index.html)
+
+Asia (consideraciones generales del tomo VI), los pueblos de Siberia, el Amur, el
+Ussuri y Sajalín, Rumanía y la Rumanía de hoy fuera del principado, Tierra del
+Fuego, el Sáhara occidental, las Castillas; y Siberia en la *Novísima geografía
+universal* de Onésime Reclus (1906), en la traducción de Blasco Ibáñez.
+
 #### [El Lacus Ligustinus: cuando el mar llegaba a Dos Hermanas]({{ site.baseurl }}/2026/04/06/lacus-ligustinus-guadalquivir.html)
 
 Laguna costera de unos **60 km** de norte a sur que ocupaba el bajo

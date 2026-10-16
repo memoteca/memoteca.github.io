@@ -11,7 +11,8 @@ Tras editar, regenerar la portada y subir ambos ficheros:
 
     python3 build_landing.py && git add landing.md index.md && git commit && git push
 
-- [x] Reclus
+- [x] reclus — Reclus
+  - [x] reclus_textos — Élisée Reclus, Nouvelle géographie universelle
 - [x] lacus_ligustinus — El Lacus Ligustinus (no estaba en la portada)
 - [x] equal_earth — La ONU adopta Equal Earth (no estaba en la portada)
 - [x] plantas_solares — Plantas solares

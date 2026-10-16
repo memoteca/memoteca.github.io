@@ -23,9 +23,8 @@ Sus dimensiones:
 
 - **~60 km** de norte a sur (del Estrecho de Coria a Sanlúcar)
 - **~30–50 km** de ancho en su parte más amplia
-- Sin cifra publicada de superficie para la época romana. El estuario actual del
-  Guadalquivir, cerrado por flechas de arena, ocupa unos **1.800 km²**
-  (Rodríguez-Vidal et al. 2011); el Mar Menor, unos 135 km²
+- El estuario del Guadalquivir, cerrado por flechas de arena, ocupa hoy unos
+  **1.800 km²** (Rodríguez-Vidal et al. 2011)
 
 Estaba delimitado por dos escarpes naturales: el **Aljarafe** al oeste
 (la meseta donde hoy están Camas, Castilleja, Olivares) y **Los

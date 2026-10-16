@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Carga fiscal total del asalariado en España: un análisis de progresividad"
+title: "Carga fiscal total del asalariado en España y progresividad"
 date: 2026-02-09
 series: impuestos
 part: 1

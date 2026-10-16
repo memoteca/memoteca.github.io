@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La ONU adopta Equal Earth, y la web donde estaban los mapas se cae"
+title: "La ONU adopta la proyección Equal Earth"
 date: 2026-09-04
 ---
 
@@ -27,7 +27,7 @@ veces mayor que Groenlandia, que es la proporción real. La de Mercator, diseña
 en el siglo XVI para navegar, agranda lo que está cerca de los polos y encoge lo
 que está cerca del ecuador.
 
-## Y ese mismo día se cayó la web
+## La caída de equal-earth.com
 
 `equal-earth.com` es el sitio desde el que Patterson repartía los mapas gratis.
 Comparte cuenta de hosting con `shadedrelief.com`, su otro sitio, y desde

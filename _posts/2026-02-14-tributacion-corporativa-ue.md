@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tributación corporativa en la UE: la carrera a la baja y la paradoja recaudatoria"
+title: "Tributación corporativa en la UE"
 date: 2026-02-14
 series: impuestos
 part: 5

@@ -4,8 +4,8 @@ title: "Plantas solares en Alicante: Maigmó, Ibi, Castalla y ciudad"
 date: 2026-03-25
 ---
 
-Recopilación de los proyectos de macroplantas solares fotovoltaicas en la
-provincia de Alicante, con especial atención al corredor del Maigmó
+Proyectos de macroplantas solares fotovoltaicas en la provincia de
+Alicante: el corredor del Maigmó
 (Ibi, Castalla, Tibi), la ciudad de Alicante y municipios limítrofes.
 Última actualización: marzo de 2026.
 
@@ -167,7 +167,7 @@ ante el "aluvión" de plantas fotovoltaicas.
 
 ---
 
-## El proceso legal (mismo que en Madrid)
+## El proceso legal
 
 La base legal es la misma que para los proyectos de Madrid: art. 54 de
 la Ley del Sector Eléctrico (24/2013), que declara de utilidad pública

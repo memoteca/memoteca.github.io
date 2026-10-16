@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Dersu Uzalá — el país del Ussuri en Reclus, 1881"
+title: "El Amur, el Ussuri y Sajalín en Reclus, 1881"
 ---
 
-# Dersu Uzalá — el país del Ussuri en Reclus, 1881
+# El Amur, el Ussuri y Sajalín en Reclus, 1881
 
 *Edición bilingüe a dos columnas: a la izquierda el francés de 1881, a la derecha la traducción española, párrafo frente a párrafo. Las secciones VII y VIII del capítulo IV describen la comarca que Arséniev recorrería con Dersu Uzalá veinte años después: el Amur, el Ussuri, el Sijota-alin y Sajalín.*
 

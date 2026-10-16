@@ -1,19 +1,14 @@
 ---
 layout: post
-title: "El Lacus Ligustinus: cuando el mar llegaba a Dos Hermanas"
+title: "El Lacus Ligustinus, el bajo Guadalquivir en época romana"
 date: 2026-04-06
 ---
 
-Donde hoy hay campos de arroz, salinas y marismas, hace 2.000 años
-navegaban barcos romanos cargados de garum y aceite de oliva. El
-**Lacus Ligustinus** era un enorme lago-estuario que ocupaba todo el
-bajo Guadalquivir, desde Sanlúcar de Barrameda hasta las puertas de
-Sevilla. Orippo — hoy Torre de los Herberos, un barrio de Dos
-Hermanas — era un puerto de ribera.
-
-En 2024, las lluvias devolvieron el lago durante unas semanas. Las
-imágenes de satélite muestran casi exactamente lo que veían los romanos
-desde Orippo: agua hasta el horizonte.
+El **Lacus Ligustinus** era un lago-estuario que ocupaba el bajo
+Guadalquivir en época romana, desde Sanlúcar de Barrameda hasta las
+puertas de Sevilla. Orippo, hoy Torre de los Herberos, en Dos Hermanas,
+era un puerto de ribera. En 2024 las lluvias inundaron las marismas
+durante unas semanas.
 
 ---
 
@@ -87,7 +82,7 @@ lago. Nosotros caminamos sobre los sedimentos.
 
 ---
 
-## La colmatación: cómo desaparece un lago
+## La colmatación
 
 La pregunta que hace este proceso comprensible es: **¿a qué ritmo se
 rellena?** Los sondeos de sedimentos en la zona de Doñana dan
@@ -115,7 +110,7 @@ metros de sedimento en horas.
 
 ---
 
-## Para ponerlo en perspectiva
+## Tasas de sedimentación
 
 | Ambiente | Tasa | Equivalente en 10.000 años |
 |---|---|---|
@@ -126,17 +121,15 @@ metros de sedimento en horas.
 | Boca estuario Guadalquivir (romana) | 12 mm / año | 120 m |
 
 La diferencia entre el fondo del océano y la desembocadura de un río
-es de cinco órdenes de magnitud. Eso es lo que hace que cueste
-entender la estratigrafía: la intuición piensa en el fondo del mar, no
-en un delta activo.
+es de cinco órdenes de magnitud.
 
 ---
 
-## 2024: el lago vuelve
+## La inundación de 2024
 
 En el invierno de 2024, las lluvias torrenciales inundaron las
 marismas del Guadalquivir. Las imágenes del satélite Sentinel-2
-mostraron algo extraordinario: la extensión del agua coincidía casi
+mostraron que la extensión del agua coincidía casi
 exactamente con los límites conocidos del Lacus Ligustinus.
 
 Todos los lucios, la marisma baja y los caños se inundaron. En

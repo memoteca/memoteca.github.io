@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Plantas solares en el este de Madrid: qué se sabe"
+title: "Plantas solares en el este de Madrid"
 date: 2026-03-25
 ---
 
-Recopilación de lo que se sabe sobre los proyectos de macroplantas solares
+Proyectos de macroplantas solares
 fotovoltaicas en el este de Madrid, en la cuña de terreno comprendida
 entre la **A-2 (carretera de Zaragoza)** al norte y la **A-3 (carretera
 de Valencia)** al sur: Torres de la Alameda, Pozuelo del Rey, Valdilecha,

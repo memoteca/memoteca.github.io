@@ -13,30 +13,30 @@ Tras editar, regenerar la portada y subir ambos ficheros:
 
 - [x] reclus — Reclus
   - [x] reclus_textos — Élisée Reclus, Nouvelle géographie universelle
-- [x] lacus_ligustinus — El Lacus Ligustinus (no estaba en la portada)
-- [x] equal_earth — La ONU adopta Equal Earth (no estaba en la portada)
+- [x] lacus_ligustinus — El Lacus Ligustinus, el bajo Guadalquivir en época romana
+- [x] equal_earth — La ONU adopta la proyección Equal Earth
 - [x] plantas_solares — Plantas solares
   - [x] madrid — Madrid — cuña A-2 / A-3 (este y sureste)
-    - [x] madrid_docs — Documentacion completa: cuña A-2 / A-3
-    - [x] madrid_henares — Plantas solares en el este de Madrid: qué se sabe
+    - [x] madrid_docs — Documentación: cuña A-2 / A-3
+    - [x] madrid_henares — Plantas solares en el este de Madrid
   - [x] alicante — Alicante — Maigmó, Ibi, Castalla y ciudad
     - [x] alicante_maigmo — Plantas solares en Alicante: Maigmó, Ibi, Castalla y ciudad
 - [ ] estadistica — Estadística
   - [ ] movilidad — Movilidad intergeneracional
-    - [ ] movilidad_absoluta — ¿Se desvanece el sueño español? Movilidad absoluta de renta, 1973–1996
-    - [ ] edad_optima — ¿A qué edad medir la movilidad? Determinación de la edad óptima de medición
+    - [ ] movilidad_absoluta — Movilidad absoluta de renta en España, 1973–1996
+    - [ ] edad_optima — La edad de medición de la movilidad
   - [ ] japon — Japón
-    - [ ] japon_renta — Las tres décadas perdidas en números: distribución de renta en Japón, 1999–2019
-    - [ ] japon_test — El test japonés: ¿protege la igualdad contra el estancamiento?
-    - [ ] japon_vs_espana — Dos caminos al mismo resultado: Japón vs España en movilidad absoluta
+    - [ ] japon_renta — Distribución de la renta en Japón, 1999–2019
+    - [ ] japon_test — Igualdad y estancamiento en Japón
+    - [ ] japon_vs_espana — Movilidad absoluta en Japón y en España
   - [ ] impuestos — Impuestos
-    - [ ] impuestos_progresivos — Carga fiscal total del asalariado: un análisis de progresividad
+    - [ ] impuestos_progresivos — Carga fiscal total del asalariado y progresividad
     - [ ] transferencias — Transferencias del Estado y carga fiscal neta
-    - [ ] riqueza — Distribución de la riqueza en España: quién posee qué y cómo tributa
-    - [ ] eff — La Encuesta Financiera de las Familias: qué mide, qué no, y cómo de bien
-    - [ ] vivienda_propiedad — Vivienda en España: propiedad, alquiler y el mito de las viviendas vacías
+    - [ ] riqueza — Distribución de la riqueza en España y su tributación
+    - [ ] eff — La Encuesta Financiera de las Familias: qué mide y con qué fiabilidad
+    - [ ] vivienda_propiedad — Vivienda en España: propiedad, alquiler y viviendas vacías
     - [ ] rentas — Rentas del trabajo vs rentas del capital en España (2009–2024)
-    - [ ] corporativa — Tributación corporativa en la UE: la carrera a la baja y la paradoja recaudatoria
+    - [ ] corporativa — Tributación corporativa en la UE
     - [ ] comparativa_europea — Comparativa europea de carga fiscal sobre el trabajo
   - [ ] otros — Otros análisis
     - [ ] vivienda_ecv — La vivienda en la ECV del INE

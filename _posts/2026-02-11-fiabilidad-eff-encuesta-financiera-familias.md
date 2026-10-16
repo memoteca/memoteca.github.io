@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La Encuesta Financiera de las Familias: qué mide, qué no, y cómo de bien"
+title: "La Encuesta Financiera de las Familias: qué mide y con qué fiabilidad"
 date: 2026-02-11
 series: impuestos
 part: 4

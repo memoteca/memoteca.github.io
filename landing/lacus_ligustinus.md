@@ -1,4 +1,4 @@
-#### [El Lacus Ligustinus: cuando el mar llegaba a Dos Hermanas]({{ site.baseurl }}/2026/04/06/lacus-ligustinus-guadalquivir.html)
+#### [El Lacus Ligustinus, el bajo Guadalquivir en época romana]({{ site.baseurl }}/2026/04/06/lacus-ligustinus-guadalquivir.html)
 
 Laguna costera de unos **60 km** de norte a sur que ocupaba el bajo
 Guadalquivir en época romana, de Sanlúcar a las puertas de Sevilla; Orippo

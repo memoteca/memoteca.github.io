@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vivienda en España: propiedad, alquiler y el mito de las viviendas vacías"
+title: "Vivienda en España: propiedad, alquiler y viviendas vacías"
 date: 2026-02-12
 series: impuestos
 part: 4

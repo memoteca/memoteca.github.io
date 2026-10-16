@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "El test japones: protege la igualdad contra el estancamiento?"
+title: "Igualdad y estancamiento en Japón"
 date: 2026-03-05
 series: japon
 part: 2

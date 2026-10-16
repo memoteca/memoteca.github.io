@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "¿A qué edad medir la movilidad? Determinación de la edad óptima de medición"
+title: "La edad de medición de la movilidad"
 date: 2026-03-04
 series: movilidad
 part: 2

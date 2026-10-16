@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "¿Se desvanece el sueño español? Movilidad absoluta de renta en España, 1973–1996"
+title: "Movilidad absoluta de renta en España, 1973–1996"
 date: 2026-03-04
 series: movilidad
 part: 1

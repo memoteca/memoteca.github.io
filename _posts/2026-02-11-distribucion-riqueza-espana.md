@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Distribución de la riqueza en España: quién posee qué y cómo tributa"
+title: "Distribución de la riqueza en España y su tributación"
 date: 2026-02-11
 series: impuestos
 part: 3

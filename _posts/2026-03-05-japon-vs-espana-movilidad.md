@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dos caminos al mismo resultado: Japon vs Espana en movilidad absoluta"
+title: "Movilidad absoluta en Japón y en España"
 date: 2026-03-05
 series: japon
 part: 3

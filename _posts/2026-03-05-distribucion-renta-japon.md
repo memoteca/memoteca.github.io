@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Las tres decadas perdidas en numeros: distribucion de renta en Japon, 1999-2019"
+title: "Distribución de la renta en Japón, 1999–2019"
 date: 2026-03-05
 series: japon
 part: 1

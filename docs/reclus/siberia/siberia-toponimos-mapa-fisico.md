@@ -7,8 +7,6 @@ title: "Siberia: los nombres del mapa físico"
 
 Clave para leer un mapa hipsométrico de Siberia —PhysicalEarth, OpenTopoMap o el relieve de Google Maps— de oeste a este. Coordenadas en grados decimales, pegables en la barra de búsqueda.
 
-Complementa a [siberia-introduccion-fisica.md](siberia-introduccion-fisica.html), que explica por qué cada pieza está donde está.
-
 ---
 
 ## El borde occidental

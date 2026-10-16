@@ -9,7 +9,7 @@ title: "Los pueblos de Siberia en Reclus, 1881"
 
 **Élisée Reclus**, *Nouvelle géographie universelle. La terre et les hommes*, tomo VI: **L'Asie russe**, París, Librairie Hachette et Cie, 1881. Libro VI, capítulo IV (Siberia), páginas 676-756.
 
-**Fuente.** Ejemplar digitalizado por la Bibliothèque nationale de France, Gallica, `ark:/12148/bpt6k9641076t` — <https://gallica.bnf.fr/ark:/12148/bpt6k9641076t>. En este tramo la equivalencia es: **página impresa + 36 = página del PDF**. Así, la página 676 es la 712 del PDF. El facsímil es de acceso libre: cualquier pasaje puede cotejarse con la imagen.
+**Fuente.** Ejemplar digitalizado por la Bibliothèque nationale de France, Gallica, `ark:/12148/bpt6k9641076t` — <https://gallica.bnf.fr/ark:/12148/bpt6k9641076t>. En este tramo la equivalencia es: **página impresa + 36 = página del PDF**. Así, la página 676 es la 712 del PDF. Cualquier pasaje puede cotejarse con la imagen del facsímil.
 
 **Establecimiento del texto.** Partiendo de la capa de texto automática que Gallica adjunta al PDF, corregida sobre la imagen del facsímil. La fundición del volumen confunde el 3 y el 5 al reconocer caracteres, de modo que las cifras se verifican ampliando la imagen. Las láminas se recortan de las páginas del PDF renderizadas a 200 ppp.
 
@@ -370,10 +370,10 @@ title: "Los pueblos de Siberia en Reclus, 1881"
 
 *Las notas 4 a 7 están reconstruidas a partir del pie de página, cuya OCR viene desordenada; la atribución exacta de cada llamada queda pendiente de cotejo sobre la imagen.*
 
-[^a]: **Voguls y ostiacos.** *Vogul* es el exónimo ruso antiguo de los **mansis**, y *ostiaco* el de los **jantis**: los dos pueblos que dan hoy nombre al distrito autónomo de Janti-Mansi. Juntos forman el grupo **ugrio del Obi**, cuyos parientes lingüísticos más próximos son los **húngaros** —húngaro, janti y mansi constituyen la rama ugria del finoúgrio—. El propio Reclus lo registra en la página 680: los dialectos ostiacos son, de todos los idiomas fineses, «los que más se parecen al magiar por las raíces y aun por la gramática». Un matiz: dice que los ostiacos se llaman a sí mismos «*Manzî*, Hombres», pero *mansi* es precisamente la autodenominación de los **voguls**, no de los jantis; parece confusión suya o de su fuente. Las otras formas que da para los jantis —*as-yaks*, «gentes del Obi»— sí son correctas.
+[^a]: **Voguls y ostiacos.** *Vogul* es el exónimo ruso antiguo de los **mansis**, y *ostiaco* el de los **jantis**: los dos pueblos que dan hoy nombre al distrito autónomo de Janti-Mansi. Juntos forman el grupo **ugrio del Obi**, cuyos parientes lingüísticos más próximos son los **húngaros** —húngaro, janti y mansi constituyen la rama ugria del finoúgrio—. El propio Reclus lo registra en la página 680: los dialectos ostiacos son, de todos los idiomas fineses, «los que más se parecen al magiar por las raíces y aun por la gramática». Dice que los ostiacos se llaman a sí mismos «*Manzî*, Hombres», pero *mansi* es precisamente la autodenominación de los **voguls**, no de los jantis. Las otras formas que da para los jantis —*as-yaks*, «gentes del Obi»— sí son correctas.
 
 
-[^b]: **La frase de Troitzk.** El original es elíptico aquí, y no es fallo del OCR: en la página 695 se lee literalmente «*à Bokhara, à Tchelabinsk ou Tchelaba, sur la route de Troïtzk à Yekaterinbourg. Elle a perdu depuis que…*», sin objeto para «*a perdu*». Se sobreentiende «de su importancia», y el sujeto es Troitzk, no Cheliabinsk. La inclusión de Cheliabinsk entre los destinos de las caravanas de Turkestán también es rara —está del lado ruso, en la ruta de Troitzk a Yekaterimburgo—, y el propio Reclus lo señala con el inciso.
+[^b]: **La frase de Troitzk.** El original es elíptico aquí, y no es fallo del OCR: en la página 695 se lee literalmente «*à Bokhara, à Tchelabinsk ou Tchelaba, sur la route de Troïtzk à Yekaterinbourg. Elle a perdu depuis que…*», sin objeto para «*a perdu*». Se sobreentiende «de su importancia», y el sujeto es Troitzk, no Cheliabinsk. Cheliabinsk, incluida entre los destinos de las caravanas de Turkestán, está del lado ruso, en la ruta de Troitzk a Yekaterimburgo, y el propio Reclus lo señala con el inciso.
 
 ---
 

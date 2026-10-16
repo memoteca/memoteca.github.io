@@ -7,7 +7,7 @@ title: "Sahara occidental"
 
 **Élisée Reclus**, *Nouvelle géographie universelle. La terre et les hommes*, tome XI : **L'Afrique septentrionale, deuxième partie — Tripolitaine, Tunisie, Algérie, Maroc, Sahara**, Paris, Librairie Hachette et Cie, 1886. Chapitre V, **section VII, *Sahara occidental***, pages 867-882.
 
-**Source.** Exemplaire numérisé par la Bibliothèque nationale de France, Gallica, `ark:/12148/bpt6k6543265g` — <https://gallica.bnf.fr/ark:/12148/bpt6k6543265g>. La correspondance entre la pagination imprimée et les images du visualiseur est : **page imprimée + 25 = numéro d'image**. Ainsi la page 867 est l'image `f892` et la 882 la `f907`. Le fac-similé est en libre accès : tout passage peut être collationné sur l'image.
+**Source.** Exemplaire numérisé par la Bibliothèque nationale de France, Gallica, `ark:/12148/bpt6k6543265g` — <https://gallica.bnf.fr/ark:/12148/bpt6k6543265g>. La correspondance entre la pagination imprimée et les images du visualiseur est : **page imprimée + 25 = numéro d'image**. Ainsi la page 867 est l'image `f892` et la 882 la `f907`. Tout passage peut être collationné sur l'image du fac-similé.
 
 **Établissement du texte.** Gallica n'offre ici aucune couche de texte exploitable : le service ne renvoie que la page du visualiseur, non la transcription, et la seule OCR existante est celle de l'exemplaire d'Internet Archive, un scan de très mauvaise qualité. Le texte a donc été **transcrit directement sur les images du fac-similé**, page à page. Les planches ont été découpées dans ces mêmes images, servies par IIIF à leur résolution native (environ 2760 × 4300 px).
 

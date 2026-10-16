@@ -5,7 +5,7 @@ title: "Siberia: formación y estructura"
 
 # Siberia: formación y estructura
 
-Nota preliminar para la lectura del capítulo IV del tomo VI de Reclus, publicado en 1881. La tectónica de placas se establece en los años sesenta del siglo XX. Lo que sigue es el estado actual de la cuestión, para leerlo junto al capítulo.
+Nota preliminar para la lectura del capítulo IV del tomo VI de Reclus, publicado en 1881. La tectónica de placas se establece en los años sesenta del siglo XX.
 
 ---
 
@@ -83,17 +83,11 @@ Los tres nacen en el sur templado y desembocan en el mar helado. En primavera el
 
 A eso se añade el permafrost, que impide la infiltración: en Yakutsk el suelo está helado de 250 a 450 metros de profundidad, y el máximo conocido, cerca de kilómetro y medio, está en el alto Markha. El agua no puede bajar ni correr.
 
-Reclus tenía medido lo primero: entre los mapas de este tomo hay uno titulado *Duración del embarrancamiento del Yeniséi y del Lena*.
+Entre los mapas de este tomo hay uno titulado *Duración del embarrancamiento del Yeniséi y del Lena*.
 
 ## Las franjas cruzan la estructura
 
 El relieve se ordena de norte a sur; la vegetación, en bandas de este a oeste. Tundra en la costa, taiga en la mayor parte, y sólo en el borde meridional una banda estrecha de bosque-estepa y estepa: la tierra negra, el trigo, las ciudades, el Transiberiano. La estepa que suele imaginarse cubriendo Siberia entera es su dobladillo del sur.
-
-## Dónde está Siberia en el tomo VI
-
-El capítulo primero **no es una introducción a Siberia**, sino a Asia entera, montada sobre el sistema de mesetas —el «Diafragma» que traza del Kuen-lun al Tauro—, el paralelismo de las cadenas y el Han-hai, el «Mar Desecado» del Asia central. En ese esquema Siberia no es una región: es **una vertiente**, la ladera norte de la muralla, y aparece sólo cuando toca decir por dónde desaguan sus aguas. Siberia empieza en el capítulo IV.
-
-El paralelismo de las cadenas asiáticas, sobre el que ese capítulo vuelve una y otra vez, es el mismo hecho que aquí aparece como alineación de los cinturones acrecionados: las cordilleras se ordenan según los bordes por los que se fueron soldando las piezas.
 
 ---
 

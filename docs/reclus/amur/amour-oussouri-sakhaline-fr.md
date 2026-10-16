@@ -7,7 +7,7 @@ title: "Stanovoï, bassin de l'Amour, Mandchourie russe — Sakhalin"
 
 **Élisée Reclus**, *Nouvelle géographie universelle. La terre et les hommes*, tome VI : **L'Asie russe**, Paris, Librairie Hachette et Cie, 1881. Livre VI, chapitre IV (Sibérie), sections VII et VIII, pages 810-868.
 
-**Source.** Exemplaire numérisé par la Bibliothèque nationale de France, Gallica, `ark:/12148/bpt6k9641076t` — <https://gallica.bnf.fr/ark:/12148/bpt6k9641076t>. Le volume compte 968 pages ; ces deux sections en occupent les pages 850 à 908 du PDF (pages 810 à 868 de l'imprimé). Le fac-similé est en libre accès : tout passage peut être collationné sur l'image.
+**Source.** Exemplaire numérisé par la Bibliothèque nationale de France, Gallica, `ark:/12148/bpt6k9641076t` — <https://gallica.bnf.fr/ark:/12148/bpt6k9641076t>. Le volume compte 968 pages ; ces deux sections en occupent les pages 850 à 908 du PDF (pages 810 à 868 de l'imprimé). Tout passage peut être collationné sur l'image du fac-similé.
 
 **Établissement du texte.** On est parti de la couche de texte automatique (OCR) jointe au PDF par Gallica, corrigée mot à mot sur l'image du fac-similé. La fonte du volume fait confondre le 3 et le 5 à la reconnaissance de caractères ; tous les chiffres ont donc été vérifiés à la loupe sur l'image, et les corrections sont détaillées en note finale. Les illustrations ont été découpées dans les pages du PDF rendues à 200 ppp.
 

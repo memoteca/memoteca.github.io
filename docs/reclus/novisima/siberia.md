@@ -286,4 +286,4 @@ Formas del impreso de 1906 y sus deformaciones de OCR, con el nombre actual.
 | goldos | gold, hoy **nanái** — el pueblo de Dersu Uzalá |
 | tchouktches | chukchis |
 
-Dos cifras que han cambiado: la sonda daba entonces **1375 metros** en el Baikal, hoy 1642; y el mínimo de Verjoyansk que cita, **63 grados bajo cero**, se quedó corto — el récord del hemisferio norte está en −67,7 °C, medido en Oimiakón en 1933.
+Dos cifras que han cambiado: la sonda daba entonces **1375 metros** en el Baikal, hoy 1642; y el mínimo de Verjoyansk que cita es de **63 grados bajo cero**; el récord del hemisferio norte está en −67,7 °C, medido en Oimiakón en 1933.

@@ -33,7 +33,7 @@ Reclus llama **diaphragme** a la línea continua de mesetas que atraviesa Asia d
 
 ## El nudo del Pamir y sus muchos nombres
 
-Reclus dedica varias páginas a deshacer la idea de Humboldt de una gran cadena meridional, el **Bolor**, que cruzaría Asia de norte a sur. Su conclusión —que el Bolor se reduce a dos macizos del borde oriental del Pamir— es la que ha prevalecido: hoy el nombre no se usa.
+Reclus dedica varias páginas a deshacer la idea de Humboldt de una gran cadena meridional, el **Bolor**, que cruzaría Asia de norte a sur. Su conclusión es que el Bolor se reduce a dos macizos del borde oriental del Pamir. Hoy el nombre no se usa.
 
 | Reclus | Hoy | Coordenadas |
 |---|---|---|
@@ -55,7 +55,7 @@ Reclus dedica varias páginas a deshacer la idea de Humboldt de una gran cadena 
 
 ## La gran cavidad: el Han-hai
 
-El armazón del capítulo. Reclus sostiene que toda el Asia central interior fue un mar, el **Han-haï** o «Mar Desecado», que se retiró dejando cuencas cerradas escalonadas. La idea del mar continuo no se sostiene hoy —las cuencas son de origen tectónico, no restos de un solo mar—, pero las cuencas que enumera son reales y siguen ahí, cerradas y sin salida al océano.
+Reclus sostiene que toda el Asia central interior fue un mar, el **Han-haï** o «Mar Desecado», que se retiró dejando cuencas cerradas escalonadas. Las cuencas son de origen tectónico, no restos de un solo mar; las que enumera siguen cerradas y sin salida al océano.
 
 | Reclus | Hoy | Coordenadas |
 |---|---|---|
@@ -78,7 +78,7 @@ El armazón del capítulo. Reclus sostiene que toda el Asia central interior fue
 
 **Los tres bordes de la meseta.** El frente norte del Kunlun sube del fondo del Tarim (~1200 m) al Changtang (~5000 m) en 100-150 km. El frente sur del Himalaya sube del llano gangético (~150 m) a la meseta (~4800 m) en 200-250 km, y a la cresta de 8000 m en unos 150. El Longmen Shan, borde oriental, sube de la cuenca de Sichuan (~500 m) a más de 5000 en unos 50 km. Por altura del escalón manda el Himalaya; por gradiente, el Longmen Shan.
 
-Lo que distingue al frente del Kunlun no es su tamaño sino aquello a lo que da: **la única de las tres cuencas que es cerrada**. Al sur del Himalaya el Ganges se lleva el material al golfo de Bengala; al este del Longmen Shan, el Yangtsé al Pacífico. Al norte del Kunlun no sale nada: todo se queda en el Tarim, con 10-15 km de relleno acumulado. Sobre ese hecho —real— monta Reclus el Han-hai; la explicación que le da —un mar interior retirándose— no se sostiene.
+Lo que distingue al frente del Kunlun no es su tamaño sino aquello a lo que da: **la única de las tres cuencas que es cerrada**. Al sur del Himalaya el Ganges se lleva el material al golfo de Bengala; al este del Longmen Shan, el Yangtsé al Pacífico. Al norte del Kunlun no sale nada: todo se queda en el Tarim, con 10-15 km de relleno acumulado. Sobre ese hecho monta Reclus el Han-hai.
 
 ---
 
@@ -105,11 +105,11 @@ Lo que distingue al frente del Kunlun no es su tamaño sino aquello a lo que da:
 
 ## Volcanes
 
-Reclus recoge de Humboldt la existencia de volcanes activos en el interior de Asia, lejos de todo mar. La afirmación no ha resistido: no hay volcanismo holoceno en el Tian Shan. El volcanismo cuaternario real de la región está en el Kunlun occidental, en el campo de Ashikule, con una posible erupción en 1951.
+Reclus recoge de Humboldt la existencia de volcanes activos en el interior de Asia, lejos de todo mar. No hay volcanismo holoceno en el Tian Shan. El volcanismo cuaternario real de la región está en el Kunlun occidental, en el campo de Ashikule, con una posible erupción en 1951.
 
 | Reclus | Hoy | Coordenadas |
 |---|---|---|
-| Pe-chan | Volcán del Tian Shan de las crónicas chinas, activo «hasta el siglo VII». Sin confirmación geológica; error heredado de Humboldt | — |
+| Pe-chan | Volcán del Tian Shan de las crónicas chinas, activo «hasta el siglo VII». Sin confirmación geológica | — |
 | — | Campo volcánico de Ashikule, Kunlun occidental: el volcanismo cuaternario que sí existe | 35.72, 81.60 |
 | Ouyoun-Kholdongi, «Dix-Buttes» | Casi con seguridad **Wudalianchi** (五大连池), Heilongjiang, erupción de 1719-1721. Identificación no verificada en fuente | 48.72, 126.12 |
 | Champs Phlégréens de Capadocia | Campo volcánico de Capadocia; el Hasan Dağı y el Erciyes son sus conos mayores | 38.40, 34.60 |
@@ -209,8 +209,6 @@ Reclus recoge de Humboldt la existencia de volcanes activos en el interior de As
 
 ## Falsos amigos
 
-Nombres que en el texto no significan lo que parece.
-
 | En Reclus | No es | Es |
 |---|---|---|
 | Karakoroum | La capital de Gengis Kan | La cordillera del Karakórum |
@@ -220,14 +218,13 @@ Nombres que en el texto no significan lo que parece.
 | Gaourisankar | El Gaurishankar de hoy | El Everest |
 | Mérou | Una montaña localizable | El monte cósmico del hinduismo |
 | Han-haï | Un mar geológico probado | Un nombre chino que Reclus convierte en hipótesis paleogeográfica |
-| Pe-chan | Un volcán activo | Un error de Humboldt heredado |
 | Diaphragme | Un accidente con nombre propio | El esquema de Estrabón que estructura el capítulo |
 
 ---
 
 ## Nota
 
-La India, en el esquema de Reclus, cuelga del Himalaya. En el mapa físico se ve otra cosa: la península es un bloque aparte —cratón antiguo, recubierto al oeste por los basaltos del Decán y basculado hacia el este, con su borde alto en los Ghats occidentales— y lo que la separa del Himalaya no es una rampa sino una **fosa**: la cuenca de antepaís indogangética, hundida por flexión bajo la carga de la cordillera que cabalga sobre ella y rellena de aluvión desde el Mioceno, con varios kilómetros de espesor junto al frente montañoso. La fosa es **una sola**, continua desde el delta del Indo hasta el de Bengala: unos 3000 km de cubeta con el mismo origen y el mismo relleno, partida únicamente por una divisoria de aguas. Y esa divisoria, cerca de Ambala, no es una línea sino un alféizar plano de decenas de kilómetros, entre **260 y 300 metros** —Ambala 264, Delhi 216, y el afloramiento rocoso de la dorsal de Delhi, espolón del Aravalli que asoma bajo el aluvión, unos 318—.
+La India, en el esquema de Reclus, cuelga del Himalaya. La península es un bloque aparte —cratón antiguo, recubierto al oeste por los basaltos del Decán y basculado hacia el este, con su borde alto en los Ghats occidentales— y lo que la separa del Himalaya no es una rampa sino una **fosa**: la cuenca de antepaís indogangética, hundida por flexión bajo la carga de la cordillera que cabalga sobre ella y rellena de aluvión desde el Mioceno, con varios kilómetros de espesor junto al frente montañoso. La fosa es **una sola**, continua desde el delta del Indo hasta el de Bengala: unos 3000 km de cubeta con el mismo origen y el mismo relleno, partida únicamente por una divisoria de aguas. Y esa divisoria, cerca de Ambala, no es una línea sino un alféizar plano de decenas de kilómetros, entre **260 y 300 metros** —Ambala 264, Delhi 216, y el afloramiento rocoso de la dorsal de Delhi, espolón del Aravalli que asoma bajo el aluvión, unos 318—.
 
 Es tan poco que el drenaje ha cambiado de océano. El **Ghaggar-Hakra**, hoy cauce seco perdido en el Rajastán, es el resto de una red que iba al Indo; se discute si el propio Yamuna corría por ese sistema antes de ser capturado por el Ganges —los paleocanales están ahí y la captura tiene consenso, la fecha no—.
 

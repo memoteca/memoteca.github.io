@@ -7,7 +7,7 @@ title: "Consideraciones generales sobre Asia"
 
 **Élisée Reclus**, *Nouvelle géographie universelle. La terre et les hommes*, tomo VI: **El Asia rusa**, París, Librairie Hachette et Cie, 1881. Libro VI, capítulo primero, páginas 1-58.
 
-**Fuente.** Ejemplar digitalizado por la Bibliothèque nationale de France, Gallica, `ark:/12148/bpt6k9641076t` — <https://gallica.bnf.fr/ark:/12148/bpt6k9641076t>. El volumen tiene 968 páginas; este capítulo son las páginas 13 a 74 del PDF (páginas 1 a 58 del impreso). El facsímil es de acceso libre: cualquier pasaje puede cotejarse con la imagen.
+**Fuente.** Ejemplar digitalizado por la Bibliothèque nationale de France, Gallica, `ark:/12148/bpt6k9641076t` — <https://gallica.bnf.fr/ark:/12148/bpt6k9641076t>. El volumen tiene 968 páginas; este capítulo son las páginas 13 a 74 del PDF (páginas 1 a 58 del impreso). Cualquier pasaje puede cotejarse con la imagen del facsímil.
 
 **Establecimiento del texto.** Se ha partido de la capa de texto automática (OCR) que Gallica adjunta al PDF y se ha corregido palabra por palabra sobre la imagen del facsímil. La fundición del volumen confunde el 3 y el 5 en el reconocimiento de caracteres, de modo que todas las cifras se han verificado ampliando la imagen; las enmiendas se detallan en la nota final. Se ha aplicado la fe de erratas del propio volumen (p. 918). Las ilustraciones se han recortado de las páginas del PDF renderizadas a 200 ppp; la lámina en color, plegada y digitalizada en dos mitades, se ha recompuesto.
 
